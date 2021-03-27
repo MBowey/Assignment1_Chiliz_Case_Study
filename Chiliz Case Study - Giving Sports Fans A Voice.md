@@ -11,13 +11,16 @@ The Chiliz platform builds on the idea of democratic decision making by adding a
     
 Since 2018, Chiliz has rapidly grown to a staff of over 80 employees whose backgrounds include sports, gaming, entertainment and payment solutions. Their main headquarters are in Malta with development offices in France, Turkey, Spain, South Korea, Brazil and they recently announced the opening of an office in New York. They also have team members who are active in the UK & Sweden. The CHZ token is now listed on over 8 different crypto exchanges globally and already has a total market cap of approximately US$2.8Billion.[[3]](#3) To date, Chiliz has partnered with 16 professional soccer clubs, 4 e-sports teams, the UFC and Professional Fighting League. Notable teams include FC Barcelona (BAR), Juventus (JUV), Paris Saint-Germain (PSG), Atletico de Madrid (ATM), recently signed Manchester City (CITY) and esports giant OG (OG). 
 
-Initial funding for Chiliz was through a Private Placement of CHZ tokens in the first half of 2018 for approximately US$66Million. CHZ tokens were sold in Fiat, Bitcoin & Ether to key partners including top Asian blockchain investors: Binance, OK Blockchain Capital, Ceyuan Ventures(Feng Bo), FBG Capital and H&S Financial Group.  The company expects to be sufficiently funded for multiple years without the need to generate any meaningful return.[[4]](#4) That being said, Chiliz has already generated US$30M of revenue in 2020 and anticipate over US$60M in 2021.[[5]](#5)
+Initial funding for Chiliz was through a Private Placement of CHZ tokens in the first half of 2018 for approximately US$66Million. CHZ tokens were sold in Fiat, Bitcoin & Ether to key partners including top Asian blockchain investors: Binance, OK Blockchain Capital, Ceyuan Ventures(Feng Bo), FBG Capital and H&S Financial Group.  The company expects to be sufficiently funded for multiple years without the need to generate any meaningful return as it is still in its growth phase.[[4]](#4) That being said, Chiliz has already generated US$30M of revenue in 2020 and anticipate over US$60M in 2021.[[5]](#5)
 The following diagram represents the total token distribution:
 
 ![GitHub Logo](/Images/Distribution.png) 
-> *Source: [[4]](#4) Binance Listing Content Q&A*
+> *Source: Binance Listing Content Q&A [[4]](#4)*
 
-
+**Total CHZ Minted:** 8.8 Billion
+**Private Pre-Sale and Public Sale Hardcap:** 3.1 Billion
+**CHZ issued to Team + Seed Investors:** 1.1 Billion
+**CHZ issued to Adivsory Board:** 233 Million
 
 ## Business Activities
 
