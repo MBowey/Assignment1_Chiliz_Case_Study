@@ -58,18 +58,18 @@ In less than 3 years since Chiliz launched, it is evident the impact they are ha
 
 
 ## References
-* <a id="1">[1]</a> [Chiliz Whitepaper](CHZ_whitepaper.pdf) 
-* <a id="2">[2]</a> [International Journal of Sport Communication (2011) – Cesar Garcia - Real Madrid Football Club: Applying a Relationship-Management Model to a Sport Organization in Spain](IJS_Garcia.pdf)
+* <a id="1">[1]</a> [Chiliz Whitepaper](/References/CHZ_whitepaper.pdf) 
+* <a id="2">[2]</a> [International Journal of Sport Communication (2011) – Cesar Garcia - Real Madrid Football Club: Applying a Relationship-Management Model to a Sport Organization in Spain](/References/IJS_Garcia.pdf)
 * <a id="3">[3]</a> https://coinmarketcap.com
-* <a id="4">[4]</a> [Chiliz Website – Binance Listing Content Q&A](CHZ_binance_proposal.pdf)
+* <a id="4">[4]</a> [Chiliz Website – Binance Listing Content Q&A](/References/CHZ_binance_proposal.pdf)
 * <a id="5">[5]</a> https://www.reuters.com/article/us-soccer-blockchain-chiliz-idUSKBN2AU0PA 
 * <a id="6">[6]</a> https://www.reuters.com/article/us-soccer-blockchain-chiliz-idUSKBN2AU0PA
 * <a id="7">[7]</a> https://www.businesswire.com/news/home/20190514005472/en/Sports---614-Billion-Global-Market-Opportunities 
-* <a id="8">[8]</a> [Chiliz Whitepaper](CHZ_whitepaper.pdf)
+* <a id="8">[8]</a> [Chiliz Whitepaper](/References/CHZ_whitepaper.pdf)
 * <a id="9">[9]</a> https://www.reuters.com/article/us-soccer-blockchain-chiliz-idUSKBN2AU0PA 
 * <a id="10">[10]</a> https://www.newyorker.com/magazine/2019/06/03/how-football-leaks-is-exposing-corruption-in-european-soccer 
 * <a id="11">[11]</a> https://coinmarketcap.com *Note: Valuations may fluctuate due to market volatility* 
-* <a id="12">[12]</a> [Chiliz Whitepaper](CHZ_whitepaper.pdf) 
+* <a id="12">[12]</a> [Chiliz Whitepaper](/References/CHZ_whitepaper.pdf) 
 
 * <a id="13">[13]</a> https://www.cnbc.com/2021/02/28/230-million-dollars-spent-on-nba-top-shot.html 
 * <a id="14">[14]</a> https://www.cnbc.com/2021/03/26/digital-artist-beeple-common-misunderstanding-about-nfts.html 
