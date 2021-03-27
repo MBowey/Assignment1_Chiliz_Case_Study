@@ -17,10 +17,10 @@ The following diagram represents the total token distribution:
 ![GitHub Logo](/Images/Distribution.png) 
 > *Source: Binance Listing Content Q&A [[4]](#4)*
 
-**Total CHZ Minted:** 8.8 Billion
-**Private Pre-Sale and Public Sale Hardcap:** 3.1 Billion
-**CHZ issued to Team + Seed Investors:** 1.1 Billion
-**CHZ issued to Adivsory Board:** 233 Million
+* **Total CHZ Minted:** 8.8 Billion
+* **Private Pre-Sale and Public Sale Hardcap:** 3.1 Billion
+* **CHZ issued to Team + Seed Investors:** 1.1 Billion
+* **CHZ issued to Adivsory Board:** 233 Million
 
 ## Business Activities
 
