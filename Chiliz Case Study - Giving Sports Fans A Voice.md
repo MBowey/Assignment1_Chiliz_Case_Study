@@ -19,7 +19,7 @@ The following diagram represents the total token distribution:
 * **Total CHZ Minted:** 8.8 Billion
 * **Private Pre-Sale and Public Sale Hardcap:** 3.1 Billion
 * **CHZ issued to Team + Seed Investors:** 1.1 Billion
-* **CHZ issued to Adivsory Board:** 233 Million
+* **CHZ issued to Advisory Board:** 233 Million
 
 > *Source: Binance Listing Content Q&A [[6]](#6)*
 
